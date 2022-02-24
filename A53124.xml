@@ -1,0 +1,512 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Bedlam, or, Tom of Bedlams obervations, upon every month and feastival time in this present year, 1674 VVith his general judgment of the state thereof, and what is like to happen in several parts of the vvorld, with the grand causes thereof. Calculated chiefly for the meridian of Great Bedlam, and the cross walks in Moor-fields, where the pole is elivated many miles above sense or apprehension. By Tom of Bedlam, Knight of the Frantic Horn, and student in mathematical gimcracks, whimsies, anticks, and others rare chymera's. With allowance.</title>
+            <author>Tom, of Bedlam.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53124</idno>
+            <idno type="STC">Wing N948A</idno>
+            <idno type="STC">ESTC R218167</idno>
+            <idno type="EEBO-CITATION">99829784</idno>
+            <idno type="PROQUEST">99829784</idno>
+            <idno type="VID">34227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2010:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Bedlam, or, Tom of Bedlams obervations, upon every month and feastival time in this present year, 1674 VVith his general judgment of the state thereof, and what is like to happen in several parts of the vvorld, with the grand causes thereof. Calculated chiefly for the meridian of Great Bedlam, and the cross walks in Moor-fields, where the pole is elivated many miles above sense or apprehension. By Tom of Bedlam, Knight of the Frantic Horn, and student in mathematical gimcracks, whimsies, anticks, and others rare chymera's. With allowance.</title>
+                  <author>Tom, of Bedlam.</author>
+               </titleStmt>
+               <extent>[16+] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for B.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Tom of Bedlam obviously a psuedonym.</note>
+                  <note>Signatures: C.</note>
+                  <note>In verse.</note>
+                  <note>Woodcut illustration on p. [2] has at head: Tom of Bedlam.</note>
+                  <note>Caption and running title: Tom of Bedlams observations for the year, 1674.</note>
+                  <note>Imperfect: copy incomplete, p. [16] has catchword: mou.</note>
+                  <note>Reproduction of the original at the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:34227:1"/>
+News from <hi>Bedlam,</hi> Or, Tom of Bedlams OBSERVATIONS, UPON Every Month and Feaſtival Time in this preſent Year, 1674.</p>
+            <p>VVith his General Judgment of the State thereof, and what is like to Happen in ſeve<g ref="char:EOLhyphen"/>ral parts of the VVorld, with the Grand Cauſes thereof.</p>
+            <p>Calculated chiefly for the <hi>Meridian</hi> of <hi>Great Bed<g ref="char:EOLhyphen"/>lam,</hi> and the <hi>Croſs Walks</hi> in <hi>Moor-fields,</hi> where the <hi>Pole</hi> is Elivated many Miles above <hi>Senſe</hi> or <hi>Apprehenſion.</hi>
+            </p>
+            <p>By <hi>Tom</hi> of <hi>Bedlam,</hi> Knight of the <hi>Frantick Horn,</hi> and Student in <hi>Mathematical Gimcracks, Whimſies, Anticks,</hi> and others rare <hi>Chymera's.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>Stand back kind Friends, I pray now let me Come,</hi>
+               </l>
+               <l>
+                  <hi>Now each have Writ their Minds, why not Mad</hi> Tom<hi>:</hi>
+               </l>
+               <l>
+                  <hi>My Wits ſhall Dance like to a</hi> Graveſend <hi>Wherry,</hi>
+               </l>
+               <l>
+                  <hi>To pleaſe the Wiſe and make mad People Merry.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. H.</hi> 1674.</p>
+            <figure>
+               <head>Tom of Bedlam.</head>
+            </figure>
+         </div>
+         <div type="explanation_of_illustration">
+            <pb facs="tcp:34227:3"/>
+            <head>The Explanation of the Pictur.</head>
+            <l>HAd I the Art, to Uſe the Poets Pen,</l>
+            <l>So to impart ſound Wit to other Men;</l>
+            <l>I would adviſe them, to be Wiſe and Wary,</l>
+            <l>And not like me, in all things to miſcarry.</l>
+            <l>My Wits and Fancy, through the World do Flie,</l>
+            <l>And in my Thoughts, I ſeem to ſcale the Skie,</l>
+            <l>Suppoſing <hi>Luna</hi>'s dry, and fain would Drink,</l>
+            <l>Calls for her Pot, but like me, hath no Chink.</l>
+            <l>I wind my Horn that <hi>Jacobs</hi> Staff doth hold,</l>
+            <l>And ſee the Stars all glittering like Gold;</l>
+            <l>One my Croſs ſtaff, a Quadrat you may ſee,</l>
+            <l>But I forgot to ſet down each Degree:</l>
+            <l>Upon my Horn, you ſee an Owl doth ſit,</l>
+            <l>Th' Emblem of moſt that Almanacks have Writ.</l>
+            <l>A Scutchin here's, preſented by two Horns</l>
+            <l>That ſtand a croſs, like Mad-mens Coat of Arms:</l>
+            <l>For want of Horns, my Caſe I do deplore,</l>
+            <l>Inſtead of theſe, I wiſh Ten Thouſand Score;</l>
+            <l>One ſingle Horn here doth ſupply thoſe Twain,</l>
+            <l>Which hath two Vents, like to a Mad-mans Brain.</l>
+            <l>Two Creatures ſtrange, on either ſide appears</l>
+            <l>To catch at <hi>Momus,</hi> when he Scoffs and Jears<hi>:</hi>
+            </l>
+            <l>Another placed over the Creſt on high,</l>
+            <l>Declares his Spungie Brains are almoſt dry,</l>
+            <l>A Triangle born up by three Croſs Straws,</l>
+            <l>Shews plain enough the Breach of Reaſons Laws.</l>
+            <l>My Cullers quite above my Heed I Floriſh,</l>
+            <l>In the Deſpight of thoſe that are moſt Curriſh:</l>
+            <l>My Globe's the Earth, which highly I commend,</l>
+            <l>Even from my Birth, and unto it I bend;</l>
+            <l>My feather'd Plumes towards the Skie are ſpread,</l>
+            <l>In have Ten Thouſand Cratchits in my Head.</l>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34227:3"/>
+            <head>To the Reader.</head>
+            <l>IF thou Look big, and Read with ſcornful Eye,</l>
+            <l>I muſt proclaim thee full as Mad as I,</l>
+            <l>The ſillieſt things we know do oftneſt Hit,</l>
+            <l>And beſt Authors owe more to Luck than Wit.</l>
+            <l>The World's a <hi>Bedlam,</hi> all Men run aſtray.</l>
+            <l>But every one goes Mad a ſeveral Way.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:34227:4"/>
+            <head>Tom of Bedlams Obſervations for the Year, 1674.</head>
+            <l>I <hi>Tom</hi> of <hi>Bedlam</hi> in this Iron Age,</l>
+            <l>Adventure once upon the publick Stage,</l>
+            <l>Having lien cloſe in <hi>Bedlam</hi> many a Year,</l>
+            <l>Come at laſt quite void of Wit and Fear.</l>
+            <l>I ſee the Learned Write, to ſhew their Wit,</l>
+            <l>But ſtill their Art doth oftner fail than Hit.</l>
+            <l>Mad in my mind to hear the People cry,</l>
+            <l>New <hi>Almanacks,</hi> new <hi>Almanacks</hi> come buy;</l>
+            <l>I thought to Write to ſhew my ſimple Skill,</l>
+            <l>In nimble turning of the Gray-Gooſe quill:</l>
+            <l>I mention not any ſtrange Prodegie,</l>
+            <l>Nor tamper with doubtful Aſtrologie.</l>
+            <l>Others there are whoſe Books will ſhew their name,</l>
+            <l>Which do not treat of Nuns and beauteous Dames;</l>
+            <l>
+               <pb facs="tcp:34227:4"/>
+They ſpend their time in gazing at the Stars,</l>
+            <l>And tell us both of Peace and open Wars;</l>
+            <l>They count the Planets, ſay they are uneven,</l>
+            <l>And by Arithmatick find 'um juſt ſeven:</l>
+            <l>Twelve Signs they have appointed to Mans Body,</l>
+            <l>This makes four a piece, the writer was a Noddy:</l>
+            <l>Twelve times twelve Signs in <hi>London</hi> men may view,</l>
+            <l>You'l then conclude, all that they writ's not true.</l>
+            <l>I tell you not the <hi>Moons</hi> each ſeveral name,</l>
+            <l>Nor name the <hi>Stars</hi> for fear of gaining blame;</l>
+            <l>Nor the <hi>Eclipſes,</hi> nor no Home-bread Charms,</l>
+            <l>Except it be young Women in Mens arms:</l>
+            <l>Nor Full, nor Change, nor both, nor any neither,</l>
+            <l>Of Froſt, of Snow, nor Hail, nor Cloudy weather.</l>
+            <l>All that is writen may not paſs for Lies,</l>
+            <l>If't be not Truth, you'l find it orherwiſe:</l>
+            <l>—I'm ſure 'tis Truth, Laugh and Read it over,</l>
+            <l>You'l find 'tis Sixteen hundred ſeventy four.</l>
+            <l>Marvel not that no Months I here do place,</l>
+            <l>Nor yet Week-days, I have too little ſpace.</l>
+            <l>Eclipſes certainly there'l be ſomewhere,</l>
+            <l>And thirteen <hi>Moons</hi> within this preſent year.</l>
+            <l>Four Terms likewiſe will be at <hi>Weſtminſter,</hi>
+            </l>
+            <l>To eaſe their Purſes, that do love to Jar;</l>
+            <l>Where not a Lawyer will forſake his Fee,</l>
+            <l>Inſtead of one, he rather will take three.</l>
+            <l>Twelve Months alſo, for ſo my Keeper ſays,</l>
+            <l>In them Three hundred ſixty and five days:</l>
+            <l>Let me remember, leſt I ſhould be ſhent,</l>
+            <l>This Year <hi>Shrove-Tueſday</hi> falleth before <hi>Lent;</hi>
+            </l>
+            <l>
+               <pb facs="tcp:34227:5"/>
+There is a day of which I can divine,</l>
+            <l>Wherein each Lad doth choſe a Valentine:</l>
+            <l>From <hi>Eaſter</hi> day, two Holy-days do follow,</l>
+            <l>Young Men and Maids, of Sports will hoop &amp; hallow</l>
+            <l>The firſt of <hi>Maȝ,</hi> by ſome fair <hi>Stars</hi> I find,</l>
+            <l>Young Men and Maids together will prove kind:</l>
+            <l>Tall towering May-poles in each Town ſhall ſtand,</l>
+            <l>And many Villages within this Land;</l>
+            <l>Garlands of Flowers deckt, with Ribonds fine,</l>
+            <l>Gliſtering aloft, when th' glorious Sun doth ſhine:</l>
+            <l>Where <hi>Pan</hi> the <hi>Piper</hi> plays unto the Rout,</l>
+            <l>And every Lad doth lead his Laſs about;</l>
+            <l>To dance a Hay, a Round, a Jige,</l>
+            <l>In twenty weeks, her Belly is full bigg;</l>
+            <l>But what ſtrange Phyſick makes her thus to ſwell?</l>
+            <l>Beſhrow my Muſe, if I at all can tell.</l>
+            <div type="seasonal_observations">
+               <head>Obſervations upon Whitſuntide.</head>
+               <l>THere is another time of Sport beſide,</l>
+               <l>By Youngers, called, Welcome <hi>Whitſuntide;</hi>
+               </l>
+               <l>do preſage byth' <hi>Stars</hi> that ſhine ſo clear,</l>
+               <l>Young Men &amp; Maids, ſhall make both mirth &amp; chear.</l>
+               <l>Green Trees ſhall flouriſh in ſome country Towns,</l>
+               <l>Bumkins will ſcorn then to be called Clowns;</l>
+               <l>Then <hi>Pan</hi> appears, their pleaſant Sports to ſee,</l>
+               <l>And on his Pipe doth play moſt merrily:</l>
+               <l>After each Lad and Laſs, their work have done,</l>
+               <l>Unto the green Tree ſtraight away they run;</l>
+               <l>Where every Lad doth take his Lafs byth' hand,</l>
+               <l>Amongſt the Rout the which about doth ſtand.</l>
+               <l>
+                  <pb facs="tcp:34227:5"/>
+Upon her Lips he doth Imprint a Kiſs,</l>
+               <l>To meet him half the way ſhe will not miſs:</l>
+               <l>Sweet Muſick of all ſorts doth then abound,</l>
+               <l>Then hand in hand, they dance the Tree around;</l>
+               <l>Then part aſunder and Caper ſo high,</l>
+               <l>A Man would think they'd Leap into the Skie;</l>
+               <l>They Leap and Skip, being in a merry ſtrain,</l>
+               <l>They meet and Kiſs, then Kiſs and part again:</l>
+               <l>Each Lad his Gift oth' Muſick doth beſtow,</l>
+               <l>To pleaſe his Laſs in this Triumphant ſhow:</l>
+               <l>Poor <hi>Tom</hi> ſtands by, beholding this ſame Sport,</l>
+               <l>That far ſurpaſſes all Delights oth' Court;</l>
+               <l>Wiſhing himſelf a Partner in that Bliſs,</l>
+               <l>That he might Court the Maids and alſo Kiſs.</l>
+               <l>E're twenty Weeks be paſt, I'le lay a Pot,</l>
+               <l>Some Maids prove ſick, if their Bellies ſwell not;</l>
+               <l>Some Lad is forc't to make his Laſs his Bride,</l>
+               <l>For his ſweet Dancing at laſt <hi>Whitſuntide.</hi>
+               </l>
+            </div>
+            <div type="seasonal_observations">
+               <head>Obſervations upon the four Quarter days.</head>
+               <l>I Do obſerve that plain it doth appear,</l>
+               <l>Four Quarter-days there are within the Year,</l>
+               <l>Which brings to Landlords great joy and content,</l>
+               <l>When as kind Tenants pays to them their Rent.</l>
+               <l>
+                  <hi>March</hi> the Twenty Five, I underſtand,</l>
+               <l>Is Quarter-day throughout this Famous Land.</l>
+               <l>The Twenty Five of <hi>June,</hi> as I hear tell,</l>
+               <l>Is Quarter-day, that pleaſeth Landlords well;</l>
+               <l>This Year on <hi>September,</hi> the Twenty Nine,</l>
+               <l>Landlords receive their Rents, and drink good wine.</l>
+               <l>
+                  <pb facs="tcp:34227:6"/>
+And upon <hi>December,</hi> Twenty and One,</l>
+               <l>This laſt Quarter like the reſt is gone.</l>
+               <l>Poor Tenants caſe, much I do lament,</l>
+               <l>Which by no means great dangers can prevent:</l>
+               <l>I do bewail my own, and others Crimes,</l>
+               <l>Not gaining Coyn in theſe ſad Iron Times:</l>
+               <l>When greedy Lions come unto their Doors,</l>
+               <l>And gapes for Coyn, and ſoundly at him Roars:</l>
+               <l>Come Fellow? Now come pay to me my Rent,</l>
+               <l>Or elſe to Priſon ſtraight thou ſhalt be ſent:</l>
+               <l>When as the tenant theſe proud words doth hear,</l>
+               <l>His very heart begins to quake with fear.</l>
+               <l>Then firſt of all his Goods are ſtrain'd upon,</l>
+               <l>Not having left a Bed for to lie on;</l>
+               <l>His Wife and Children, tender, ſick, and poor,</l>
+               <l>Half naked, ſtrait are all turn'd our oth' door;</l>
+               <l>Her Husband then in a Priſon is Confin'd,</l>
+               <l>To end his days, to pleaſe the Landlords mind.</l>
+               <l>I <hi>Tom</hi> of <hi>Bedlam</hi> to ſuch Landlords tell,</l>
+               <l>That their Reward ſhall be to Fry in Hell.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>
+                  <hi>His Obſervations upon the firſt Week of</hi> Chriſtmaſs.</head>
+               <l>UPon <hi>December,</hi> dated the Twenty Five,</l>
+               <l>Who ever at that Day ſhall be Alive;</l>
+               <l>The Week before ſhall ſee much Cattle ſlain,</l>
+               <l>The Bodies upon <hi>Chriſtmas</hi> to ſuſtain.</l>
+               <l>I do Preſage, and eke Pronoſticate,</l>
+               <l>There will be Feaſting, both Early and Late;</l>
+               <l>With Cards and Dice, throughout this Land ſhall be</l>
+               <l>In great eſteem, with High and Low degree:</l>
+               <l>
+                  <pb facs="tcp:34227:6"/>
+Four Kings together to each Houſe ſhall come,</l>
+               <l>And be eſteemed both of all and ſome;</l>
+               <l>And ſhall be ſeen all in one Company,</l>
+               <l>And much admired of all the ſtanders by.</l>
+               <l>Four Queens likewiſe, with their beſt Habits on,</l>
+               <l>The more to pleaſe the Eyes oth' lookers on:</l>
+               <l>Then four brave Fellows, deckt in Collors fine,</l>
+               <l>Wait them upon, but yet they drink no Wine;</l>
+               <l>You may know them from amongſt twenty ſcore,</l>
+               <l>For by their carriage, they are Knaves all four:</l>
+               <l>And every three of theſe, ten Followers have,</l>
+               <l>All deckt with Collors very Fine and Brave.</l>
+               <l>I ſhould firſt have begun with the New Year,</l>
+               <l>But I poor <hi>Tom,</hi> was dreaming of good Chear;</l>
+               <l>How that Tenants ſend their Landlords Gifts,</l>
+               <l>That need them not, both theſe and other ſhifts;</l>
+               <l>Each Meſſenger a Gift doth then receive,</l>
+               <l>Of Gloves and Ribonds, which their Lord doth give.</l>
+               <l>They ſtay and Dine, and Sup, before they part,</l>
+               <l>God bleſs ſuch Lords that wins the Tenants heart:</l>
+               <l>Tenants will Thrive under ſuch Landlords, when</l>
+               <l>They rack not Rents, but are kind loving men.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>Of the four Quarters of the Year.</head>
+               <l>NOw if <hi>Diana</hi> certainly wear Garters,</l>
+               <l>This preſent Year will ſurely have 4 Quarters,</l>
+               <l>
+                  <hi>Winter, Harveſt, Summer,</hi> and <hi>Spring</hi> time,</l>
+               <l>Excuſe poor <hi>Tom</hi> that knows not how to Rime;</l>
+               <l>In theſe Quarters ſuch varieties there be,</l>
+               <l>Of Railers of each Sex, and each Degree:</l>
+               <l>
+                  <pb facs="tcp:34227:7"/>
+Which caus'd a <hi>Frenchman</hi> for to break his Noſe,</l>
+               <l>Alſo the Tears to trickle down his Hooſe:</l>
+               <l>In this Conflict brave Gallent men ſhall die,</l>
+               <l>When it come to paſs, you'l know't as well as I.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>
+                  <hi>Of the Twelve Months, firſt of</hi> January.</head>
+               <l>I Have obſerved by great Care and Truſt,</l>
+               <l>The days herein are One and Thirty juſt;</l>
+               <l>This Month begins the firſt day of the Year,</l>
+               <l>When men and women dance and make good chear.</l>
+               <l>Great Fires I'me ſure, will be in great requeſt,</l>
+               <l>Strong Ale and Beer will ſurely be oppreſt:</l>
+               <l>Warm Beds, hot Broths, good Chear is all in faſhion,</l>
+               <l>Both in <hi>London,</hi> and throughout this Nation.</l>
+               <l>Cooks ſhops and Ordinaries, are now in motion,</l>
+               <l>The Gallants at the Wine ſhew great devotion:</l>
+               <l>Shop-keepers every one will wear his Gown,</l>
+               <l>Both in the City, and in each Free Town.</l>
+               <l>And let me now, to ſpeak the truth be bold,</l>
+               <l>The Weather ſeems not hot, but extream cold:</l>
+               <l>There's one thing more the which I greatly fear;</l>
+               <l>Fagots and Coals will be exceeding dear.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>Februaries <hi>Obſervation.</hi>
+               </head>
+               <l>I Have obſerved by eating Pork and Peaſe,</l>
+               <l>This preſent Month hath Eight and Twenty days;</l>
+               <l>One thing remarkable, I'le not let paſs,</l>
+               <l>The ſecond day is called <hi>Candlemaſs,</hi>
+               </l>
+               <l>The twenty four is <hi>Matthias.</hi>
+               </l>
+               <l>This Month reſembles the laſt Month before,</l>
+               <l>
+                  <pb facs="tcp:34227:7"/>
+Trading begins for to Revive the Poor</l>
+               <l>Shop-keepers, now do gather by their Gain,</l>
+               <l>And to the Poor do then Return again;</l>
+               <l>They fill their Shops exſpecting a rich Spring,</l>
+               <l>To vent their Wares great Profit home to bring.</l>
+               <l>One thing byth' way, to note, I'le now be bold,</l>
+               <l>The Weather ſeems to be exceeding cold:</l>
+               <l>Methinks I ſee a ſtrange Out-landiſh Fire,</l>
+               <l>That's kindled betwixt a <hi>Nun</hi> and a <hi>Frier:</hi>
+               </l>
+               <l>'Tis pleaſant ſport when <hi>Mars</hi> and <hi>Venus</hi> be,</l>
+               <l>United both by this Afinity:</l>
+               <l>Both <hi>Friers</hi> and <hi>Nuns,</hi> they all creep cloſe together,</l>
+               <l>To Faſt, and Looſe, or both, or choſe you whether.</l>
+               <l>The zealous <hi>Monks,</hi> that ſeem to be moſt pure,</l>
+               <l>As I love Life, do love a Laſs I'me ſure.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>
+                  <hi>His Obſervations for</hi> March.</head>
+               <p>
+                  <hi>SEveral varieties of ſtrange Alterations in this Month, cometh to paſs in divers places of the World, either in</hi> Europe, Aſia, Africa, <hi>or</hi> America, <hi>if it happen that</hi> Mars <hi>and</hi> Luna <hi>be in conjunction; for ſome will be ſo déep in love with their</hi> Idols, <hi>that they dote upon, though they have Eyes they will not ſée, and Ears yet they will not hear, having Noſes but ſmell nothing, Wit and perceive nothing, having a Heart but can féel nothing; which ſéemeth by my</hi> Aſtrolo<g ref="char:EOLhyphen"/>gical Rules <hi>gathered out of the Learned writings of thoſe moſt Excellent and never to be forgot<g ref="char:EOLhyphen"/>ten Authors,</hi> Jack Adams, Hobbedibooby, <hi>and</hi>
+                  <pb facs="tcp:34227:8"/>
+Poor Robin: <hi>That Old Men that have Young Wives will be made Cuckolds, Youths be be<g ref="char:EOLhyphen"/>fool'd, Beauty betraid, Wealth will be waſted, and Virtue will be diſhonoured; and that Lambs, Pigs, Calves, Géeſe, Ducks, and Chickens, ſhall either live till they be at their full Age, or be kill'd to eat whilſt they are young; and alſo that a Horſe is no Man, or a Cock no Hen, a Gooſe no Gander, and a Bull no Cow, and a Bear is no Sow.</hi>
+               </p>
+               <l>The Weather oft will alter with the VVind,</l>
+               <l>And thoſe can nothing ſee that are ſtark Blind.</l>
+               <l>Brave News ariveth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom beyond the Seas,</l>
+               <l>VVhich <hi>Engliſh</hi> Men, and <hi>Engliſh</hi> hearts doth pleaſe:</l>
+               <l>The <hi>Dutch</hi> ſo ſtout, before our Fleet doth bend,</l>
+               <l>They'l have the Rout, and thus this Month doth end.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>Aprils <hi>Obſervations.</hi>
+               </head>
+               <l>THis Month the Earth beginneth green to ſhow,</l>
+               <l>Adorn'd with Graſs &amp; Flowers, that thereon grow</l>
+               <l>Soft and ſweet ſhowres, upon the Earth doth fall,</l>
+               <l>Rejoycing the hearts of Men and Beaſts, and all.</l>
+               <l>Sweet ſinging Birds do make ſuch Harmony,</l>
+               <l>With moſt ſweet Notes, and warbling towards the Skie;</l>
+               <l>Pleaſing to God, and alſo to Mankind,</l>
+               <l>No Muſick like to this to pleaſe the mind:</l>
+               <l>Part of this Month, perhaps it may prove warm,</l>
+               <l>But a good Fire will do a man no harm.</l>
+               <p>
+                  <hi>By reaſon that</hi> March <hi>is not in</hi> April, <hi>it pro<g ref="char:EOLhyphen"/>duceth theſe and the like effects, that ſome will</hi>
+                  <pb facs="tcp:34227:8"/>
+                  <hi>dance the</hi> Trenchmore <hi>without a Piper, and ſome can take no reſt for ſléeping, nor eat a full meal after their Belltes be full, nor run faſt when they are not able for to ſtand: nor a Scolding woman to be quiet for fourtéen hours in every day: Nay, more it teacheth a Fool to flattery, a Knave to lye, a Wench to dance, it makes a Souldier valourous, a Courtier wanton; it will make a Wiſeman a fool, and a Fool quite out of his wits.</hi>
+               </p>
+               <l>Young Lawyers now, ſhall lay aſide their Books,</l>
+               <l>And tempted be by ſome fair <hi>Venus</hi> Looks:</l>
+               <l>
+                  <hi>Mars</hi> will be angry, and will draw his Sword,</l>
+               <l>
+                  <hi>Vulkin</hi> to him ſmall ſucker will afford:</l>
+               <l>
+                  <hi>Cupid</hi> from <hi>Venus</hi> ſhall the Trevant play,</l>
+               <l>And's ſoundly whipt for ſhooting his Shafts away.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>Mays <hi>Obſeruations.</hi>
+               </head>
+               <p>
+                  <hi>This Month begins jovially, Old Men and Women rejoyce becauſe they put their Cat<g ref="char:EOLhyphen"/>tel to Graſs, young Men imbrace their Swéet<g ref="char:EOLhyphen"/>hearts, going a Maying; the firſt day in the morning is ſo cold, that the young men cover the Maids with ſeveral gréen Gowns, and to ſe<g ref="char:EOLhyphen"/>cure their own hands from the cold, thruſt them into the Maids boſoms: The firſt day is ſpent in Varieties of Sports, as I told you before. Some News more then ordinary this Month doth produce; Firſt, there will be ſuch a f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, that except they be young and fat, very</hi>
+                  <pb facs="tcp:34227:9"/>
+little money will be bidden for them; Hackny Horſes will hardly be worth their meat, many houſes hath ſuch Dogs, that no Beggar dare come near their doors; no ſooner is the Mouſe at the Chéeſe, but the Cat hath her by the back; ſome <hi>Maidmarians</hi> will be gotten with Child in their ſléep, and the <hi>Hobby-horſe</hi> will be mad that the fool muſt be the Father. There is great talk of ſetting up ſeveral new Taverns, but it is <hi>Tobacco</hi> that will vent the old Sack; much Giberiſh is ſpoken, ſo that our own Mother Tongue is quite forgotten; Vſurers are half mad for lack of Vent for their Money; Law was never more out of uſe, nor men more out of Money; Women put Men quite out of Coun<g ref="char:EOLhyphen"/>tenance, a Pot of Al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will be worth a Penny, and the Knave of Clubs will ſtill make one in the Stock.</p>
+               <l>This Month doth end when June it doth begin,</l>
+               <l>Of ſome one ſide the Knave oth' Clubs will win;</l>
+               <l>There is more Knaves by Sea and Land,</l>
+               <l>Then all the World beſide can well withſtand:</l>
+               <l>A due ſweet May, and eke fair Maids farewel,</l>
+               <l>Good Friers, I pray, let Nuns paſs to their Cell.</l>
+            </div>
+            <div type="seasonal_observations">
+               <head>Junes Obſervation.</head>
+               <p>THis Month produceth a moſt ſtrange differ<g ref="char:EOLhyphen"/>ence betwéen <hi>December, January,</hi> and this Month; for thoſe that uſed then to cry Sprats, Oyſters, freſh Herrings, and gray Peaſe, do mou</p>
+               <pb facs="tcp:34227:9"/>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
